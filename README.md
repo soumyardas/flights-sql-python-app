@@ -1,2 +1,2 @@
 # flights-sql-python-app
-Flights dashboard webapp using SQL and Python
+Flights Dashboard webapp using SQL and Python
